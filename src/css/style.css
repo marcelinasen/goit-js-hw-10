@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#search-box {
+    font: inherit;
+    padding: 8px;
+    max-width: 320px;
+    margin-bottom: 16px;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    border: 3px solid rgba(121, 86, 187, 0.5);
+    border-radius: 3px;
+    background-color: rgba(130, 190, 176, 0.3);
+  }
